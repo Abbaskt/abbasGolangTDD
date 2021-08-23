@@ -1,7 +1,7 @@
 package length
 
 import (
-	"github.com/stretchr/testify/assert"
+	testifyAssert "github.com/stretchr/testify/assert"
 	"testing"
 )
 
